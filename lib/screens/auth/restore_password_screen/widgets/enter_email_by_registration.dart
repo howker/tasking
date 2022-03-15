@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:wundertusk/key_packages.dart';
 import 'package:wundertusk/services/providers/auth_providers/providers.dart';
-import 'package:provider/provider.dart';
 
 class EnterEmailByRegistration extends StatelessWidget {
   const EnterEmailByRegistration({
